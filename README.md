@@ -55,4 +55,4 @@ Follow the official [FlutterFire documentation](https://firebase.flutter.dev/doc
 ## 🚀 Getting Started (For Developers)
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/notify.git
+   git clone https://github.com/123thirumal/notify.git
